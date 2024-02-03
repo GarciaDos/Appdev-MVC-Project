@@ -21,12 +21,6 @@ The website will now be opened on your main browser
 
 Please do enjoy browsing my website!!
 
-click and open "127.0.0.1:8000" link in the terminal
-
-The website will now be opened on your main browser
-
-Please do enjoy browsing my website!!
-
 ### If you want to find the other github I made, here is the link: https://github.com/GarciaDos/AppDev-MVC 
 
 Please do note that i'm having trouble recreating what I have done on my instructions in my readme, that's why I made this zipped repository instead
